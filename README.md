@@ -1,7 +1,5 @@
 # Hi there! 👋
 
-![Waving Hand](https://media.giphy.com/media/xT0xezQGO2P4Xq2IoI/giphy.gif)
-
 Welcome to my GitHub profile. I'm Hesdin, a passionate programmer and developer.
 
 ## About Me:
