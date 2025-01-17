@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**hesdin/hesdin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Waving Hand](https://media.giphy.com/media/xT0xezQGO2P4Xq2IoI/giphy.gif)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. I'm Hesdin, a passionate programmer and developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me:
+- 💻 I specialize in developing applications using the TALL stack.
+- 🌱 I'm currently learning more about advanced backend development.
+- ⚡ Fun fact: I love solving complex coding challenges.
+
+Feel free to explore my repositories and connect with me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hesdin%20Mukhsin-blue)](https://www.linkedin.com/in/hesdinmukhsin/)
