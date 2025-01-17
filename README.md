@@ -9,4 +9,4 @@ Welcome to my GitHub profile. I'm Hesdin, a passionate programmer and developer.
 
 Feel free to explore my repositories and connect with me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hesdin%20Mukhsin-blue)](https://www.linkedin.com/in/hesdinmukhsin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hesdin%20Mukhsin-blue)](https://www.linkedin.com/in/hesdin-mukhsin/)
