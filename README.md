@@ -1,12 +1,17 @@
-# Hi there! 👋
+# 👋 Hi, I'm Hesdin
 
-Welcome to my GitHub profile. I'm Hesdin, a passionate programmer and developer.
+I'm a passionate developer specializing in the **TALL stack** (Tailwind, Alpine.js, Laravel, Livewire).
 
-## About Me:
-- 💻 I specialize in developing applications using the TALL stack.
-- 🌱 I'm currently learning more about advanced backend development.
-- ⚡ Fun fact: I love solving complex coding challenges.
+## 👨‍💻 About Me
 
-Feel free to explore my repositories and connect with me!
+- 💼 Focused on building clean and maintainable applications.
+- 🌱 Currently learning more about advanced backend architecture.
+- 🧩 Enjoy solving challenging programming problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hesdin%20Mukhsin-blue)](https://www.linkedin.com/in/hesdin-mukhsin/)
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hesdin%20Mukhsin-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/hesdin-mukhsin/)
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate.
